@@ -51,7 +51,9 @@ API Documentation
 Swagger UI:
 http://127.0.0.1:8000/docs
 
-Key Highlights
+```
+## Key Highlights
+
 Designed RESTful APIs using FastAPI
 Implemented database operations using SQLAlchemy ORM
 Used Pydantic for request validation
