@@ -47,11 +47,11 @@ student-api/
 uvicorn main:app --reload
 
 API Documentation
+```
 
-Swagger UI:
+## Swagger UI:
 http://127.0.0.1:8000/docs
 
-```
 ## Key Highlights
 
 Designed RESTful APIs using FastAPI
