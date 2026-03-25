@@ -59,5 +59,5 @@ Implemented database operations using SQLAlchemy ORM
 Used Pydantic for request validation
 Followed modular backend architecture
 
-Author
+## Author
 Om Masal
